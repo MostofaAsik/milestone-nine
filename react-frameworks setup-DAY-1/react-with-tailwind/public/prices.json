@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Fitness World",
+        "price": 50,
+        "features": [
+            "Cardio equipment",
+            "Weightlifting equipment",
+            "Personal training",
+            "Group fitness classes"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Aquatic Fitness",
+        "price": 60,
+        "features": [
+            "Swimming pool",
+            "Sauna",
+            "Cardio equipment",
+            "Weightlifting equipment"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Community Fitness",
+        "price": 70,
+        "features": [
+            "Cardio equipment",
+            "Weightlifting equipment",
+            "Group fitness classes",
+            "Personal training"
+        ]
+    }
+]
